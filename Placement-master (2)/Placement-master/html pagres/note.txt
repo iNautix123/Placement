@@ -1,0 +1,7 @@
+index.html..............  css/style1
+
+2.html..................  css2/style
+
+index1.html..............  css1/style....change to style2
+
+js/index.js
