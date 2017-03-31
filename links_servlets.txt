@@ -1,0 +1,5 @@
+http://www.javatpoint.com/example-of-fetching-result-for-the-given-rollno-in-servlet
+
+https://coderanch.com/t/473270/java/Pass-radio-button-servlet
+
+https://coderanch.com/t/627258/java/retrieve-values-radio-buttons-servlets
